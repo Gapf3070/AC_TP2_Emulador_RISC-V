@@ -1,9 +1,13 @@
 # TP2 - Emulador RISC-V Simplificado
 
 **Disciplina:** Arquitetura de Computadores (ICC062) - 2026/2
+
 **Professor:** Juan Gabriel Colonna
+
 **Monitor:** Pedro Lucas Bezerra Mendes
+
 **Aluno:** Gabriel Almeida de Paula Fonseca
+
 **Matrícula:** 22450084
 
 ---
