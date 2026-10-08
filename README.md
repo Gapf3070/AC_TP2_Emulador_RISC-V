@@ -21,3 +21,7 @@ O emulador utiliza apenas bibliotecas nativas do Python3 e não necessita de nen
 ### Comando Básico:
 ```bash
 python3 emulador.py codigo.s
+```
+### Resultado esperado com o código exemplo:
+```bash
+45
